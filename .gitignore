@@ -1,0 +1,19 @@
+# Build artifacts
+build/
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# Visual Studio / IDE folders
+.vscode/
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Test outputs
+*.huff
+*.restored
+test.txt
